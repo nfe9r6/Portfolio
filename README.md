@@ -1,6 +1,6 @@
 
 
-# Humana Healthcare Analytics Comptetition
+# [Humana Healthcare Analytics Comptetition](https://github.com/nfe9r6/Case-Competition)
 	• Provided with real-world customer dataset consisting of 70,000 rows & 131 variables to determine Medicare members most
 	 at risk for transportation challenges using their social & health determinants.
 	• Data Cleaning: Encoded & standardized dataset to prepare for the statistical model using a combination of Python & R.
