@@ -1,4 +1,4 @@
-# Porfolio 
+
 
 # Humana Healthcare Analytics Comptetition
 	• Provided with real-world customer dataset consisting of 70,000 rows & 131 variables to determine Medicare members most
