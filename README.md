@@ -12,11 +12,11 @@
 		**Packages:** pandas, numpy, matplotlib, sklearn
 		
 # [R Studio Visualization](https://github.com/nfe9r6/R-Studio-Visualizations)
-	• Project to determine the affect of 3 point percentage on wins, player duration, and player salary.
+	• Project to determine the effect of 3 point percentage on wins, player duration, and player salary.
 	• Visualizations include: 
-		• Rise of the 3 Pointer - line graph that shows the increase in number of 3 pointers attempted from 1980 to now.
+		• Rise of the 3 Pointer - line graph that shows the increase in the number of 3 pointers attempted from 1980 to now.
 		• Shooting ability by age - population pyramid comparing the 3 point percentage by age of player. 
-		• Three Pointers vs. Salary - heat map showing the correlation between 3 point percentage and player salary. 
+		• Three-Pointers vs. Salary - heat map showing the correlation between 3 point percentage and player salary. 
 		• Playoff vs Non-Playoff Teams - radar chart comparing the 3-point efficiency between playoff and non-playoff teams.
 	 
 	Codes & packages used
