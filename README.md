@@ -23,5 +23,13 @@
 		**R Studio:** 
 		**Packages:** tidyr, dplyr, ggplot2, lubridate
 		
+# [R Studio Visualization](https://github.com/nfe9r6/SQL-Project)
+	• Created database using Chicago Crime Dataset from 2012.
+	• Used Primary and Foreign Keys to create Entity Relationship Diagram. 
+	
+	Tools:
+	**PostgreSQL, SQLAlchemy, IPython SQl Magic**
+	
 		
-		
+	
+
